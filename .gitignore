@@ -1,3 +1,6 @@
+# custom
+release.py
+
 # Byte-compiled / optimized / DLL files
 *.py[od]
 *$py.class
