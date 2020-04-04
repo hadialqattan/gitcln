@@ -20,9 +20,9 @@
   </a>
 </p>
 
-> CLI tool aim to clean local git repository from .gitignore file(s)/folder(s).
+  > CLI tool aim to clean local git repository from .gitignore file(s)/folder(s).
 
-> you can create or [download .gitignore](https://github.com/github/gitignore) file and use this tool anywhere.
+  > you can create or [download .gitignore](https://github.com/github/gitignore) file and use this tool anywhere.
 
 # Installation ⚓
 
@@ -72,7 +72,7 @@ optional arguments:
 
 # Tests 🧪
 
-> Only integration tests for gitcln module runs on the CI pipeline.
+  > Only integration tests for gitcln module runs on the CI pipeline.
 
 # Roadmap 📈
 
