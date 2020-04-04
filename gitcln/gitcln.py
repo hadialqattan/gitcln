@@ -4,7 +4,6 @@ gitcln CLI implementation.
 # imports
 from argparse import ArgumentParser, ArgumentDefaultsHelpFormatter
 from os import walk, getcwd, path, remove
-from multiprocessing import Pool
 from fnmatch import fnmatch
 from platform import system
 from shutil import rmtree
