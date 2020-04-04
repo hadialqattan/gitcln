@@ -3,7 +3,7 @@
 Packaging setup for gitcln.
 """
 from os.path import abspath, dirname, join
-from setuptools import Extension, find_packages, setup
+from setuptools import find_packages, setup
 
 # local import
 import gitcln as package

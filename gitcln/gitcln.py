@@ -168,7 +168,7 @@ def pstr(string: str, success: bool) -> str:
     :param string: string to prettify
     :type string: str
     :param success: success status
-    :type bool: 
+    :type success: bool
     :returns: pretty string 
     :rtype: str
     """
