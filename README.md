@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to Gitcln 👋</h1>
 <p>
-  <a href="https://github.com/HadiZakiAlQattan/gitcln/actions?query=workflow%3ACI"><img alt="CI" src="https://github.com/HadiZakiAlQattan/gitcln/workflows/CI/badge.svg?branch=master"/>
+  <a href="https://github.com/HadiZakiAlQattan/gitcln/actions?query=workflow%3ACI"><img alt="CI" src="https://github.com/HadiZakiAlQattan/gitcln/workflows/CI/badge.svg"/>
   </a>
-  <a href="https://github.com/HadiZakiAlQattan/gitcln/actions?query=workflow%3ACD"><img alt="CD" src="https://github.com/HadiZakiAlQattan/gitcln/workflows/CD/badge.svg?branch=master"/>
+  <a href="https://github.com/HadiZakiAlQattan/gitcln/actions?query=workflow%3ACD"><img alt="CD" src="https://github.com/HadiZakiAlQattan/gitcln/workflows/CD/badge.svg"/>
   </a>
   <a href="https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=HadiZakiAlQattan/gitcln&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/83e7567f13a3406a81bcc37f7f5289f6"/>
   </a>
