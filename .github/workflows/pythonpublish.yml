@@ -31,8 +31,4 @@ jobs:
         TWINE_PASSWORD: ${{ secrets.PYPI_PASSWORD }}
       run: |
         python setup.py sdist bdist_wheel
-        cd dist
-        o=$(ls | grep *.whl)
-        n=${o::-16}any.whl
-        mv $o $n
-        twine upload *
+        twine upload dist/*
