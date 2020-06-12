@@ -2,8 +2,8 @@
 CLI tool aim to clean local git repository from .gitignore file(s)/folder(s).
 """
 __name__ = "gitcln"
-__author__ = "Hadi Zaki Al-Qattan"
+__author__ = "Hadi Zaki Alqattan"
 __email__ = "alqattanhadizaki@gmail.com"
-__url__ = "https://github.com/HadiZakiAlQattan/gitcln"
-__version__ = "1.0.2"
+__url__ = "https://github.com/hadizakialqattan/gitcln"
+__version__ = "2020.4"
 __license__ = "MIT License"

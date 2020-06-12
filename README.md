@@ -1,13 +1,13 @@
 <h1 align="center">Welcome to Gitcln 👋</h1>
 <p>
-  <a href="https://github.com/HadiZakiAlQattan/gitcln/actions?query=workflow%3ACI"><img alt="CI" src="https://github.com/HadiZakiAlQattan/gitcln/workflows/CI/badge.svg"/>
+  <a href="https://github.com/hadizakialqattan/gitcln/actions?query=workflow%3ACI"><img alt="CI" src="https://github.com/hadizakialqattan/gitcln/workflows/CI/badge.svg"/>
   </a>
-  <a href="https://github.com/HadiZakiAlQattan/gitcln/actions?query=workflow%3ACD"><img alt="CD" src="https://github.com/HadiZakiAlQattan/gitcln/workflows/CD/badge.svg"/>
+  <a href="https://github.com/hadizakialqattan/gitcln/actions?query=workflow%3ACD"><img alt="CD" src="https://github.com/hadizakialqattan/gitcln/workflows/CD/badge.svg"/>
   </a>
-  <a href="https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=HadiZakiAlQattan/gitcln&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/83e7567f13a3406a81bcc37f7f5289f6"/>
+  <a href="https://www.codacy.com/manual/HadiZakiAlQattan/gitcln?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hadizakialqattan/gitcln&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/aea96341167f4b5097f6edfa52ae9439"/>
   </a>
   <a href="https://pypi.org/project/gitcln/" target="_blank">  
-    <img alt="Version" src="https://img.shields.io/github/release/HadiZakiAlQattan/gitcln.svg" />
+    <img alt="Version" src="https://img.shields.io/github/release/hadizakialqattan/gitcln.svg" />
   </a>
   <a href="https://pypi.org/project/gitcln/"><img alt="Pyversions" src="https://img.shields.io/pypi/pyversions/gitcln.svg">
   </a>
@@ -15,7 +15,7 @@
   </a>
   <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg">
   </a>
-  <a href="https://github.com/HadiZakiAlQattan/sudoku/blob/master/LICENSE" target="_blank">  
+  <a href="https://github.com/hadizakialqattan/sudoku/blob/master/LICENSE" target="_blank">  
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" />
   </a>
 </p>
@@ -82,15 +82,15 @@ optional arguments:
 
 # Copyright ©
 
-👤 **Hadi Zaki AlQattan**
+👤 **Hadi Zaki Alqattan**
 
-* Github: [@HadiZakiAlQattan](https://github.com/HadiZakiAlQattan)
+* Github: [@hadizakialqattan](https://github.com/hadizakialqattan)
 * Email: <alqattanhadizaki@gmail.com>
 
 📝 **License**
 
-Copyright © 2020 [Hadi Zaki AlQattan](https://github.com/HadiZakiAlQattan).<br />
-This project is [MIT](https://github.com/HadiZakiAlQattan/sudoku/blob/master/LICENSE) licensed.
+Copyright © 2020 [Hadi Zaki Alqattan](https://github.com/hadizakialqattan).<br />
+This project is [MIT](https://github.com/hadizakialqattan/sudoku/blob/master/LICENSE) licensed.
 
 ***
 Give a ⭐️ if this project helped you!
