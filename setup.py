@@ -46,5 +46,9 @@ setup(
         "Programming Language :: Python :: Implementation :: PyPy",
         "Topic :: Utilities",
     ],
-    entry_points={"console_scripts": ["gitcln = gitcln.gitcln:main",],},
+    entry_points={
+        "console_scripts": [
+            "gitcln = gitcln.gitcln:main",
+        ],
+    },
 )

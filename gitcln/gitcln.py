@@ -116,7 +116,12 @@ def argsp() -> list:
         type=str,
     )
     parser.add_argument(
-        "-f", "--files", help="File(s) to ignore.", nargs="*", default=[], type=str,
+        "-f",
+        "--files",
+        help="File(s) to ignore.",
+        nargs="*",
+        default=[],
+        type=str,
     )
     # get args
     args = parser.parse_args()
@@ -169,7 +174,7 @@ def pstr(string: str, success: bool) -> str:
     :type string: str
     :param success: success status
     :type success: bool
-    :returns: pretty string 
+    :returns: pretty string
     :rtype: str
     """
     # only linux based os
