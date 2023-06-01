@@ -1,3 +1,7 @@
+---
+> ## **WARNING: `gitcln` IS DEPRECATED IN FAVOR OF ```git clean -fdx```**
+---
+
 <h1 align="center">Welcome to Gitcln 👋</h1>
 <p>
   <a href="https://github.com/hadialqattan/gitcln/actions?query=workflow%3ACI"><img alt="CI" src="https://github.com/hadialqattan/gitcln/workflows/CI/badge.svg"/>
@@ -82,14 +86,14 @@ optional arguments:
 
 # Copyright ©
 
-👤 **Hadi Zaki Alqattan**
+👤 **Hadi Alqattan**
 
 * Github: [@hadialqattan](https://github.com/hadialqattan)
 * Email: <alqattanhadizaki@gmail.com>
 
 📝 **License**
 
-Copyright © 2020 [Hadi Zaki Alqattan](https://github.com/hadialqattan).<br />
+Copyright © 2020 [Hadi Alqattan](https://github.com/hadialqattan).<br />
 This project is [MIT](https://github.com/hadialqattan/sudoku/blob/master/LICENSE) licensed.
 
 ***
